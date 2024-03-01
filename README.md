@@ -13,7 +13,9 @@ Key Features:
 Technologies Used:
 
 HTML: Structured the web page content using semantic HTML5 elements.
+
 CSS: Styled the application for a visually appealing and intuitive user interface.
+
 JavaScript: Implemented client-side validation logic to enhance user interaction and provide instant feedback.
 
 Impact:
