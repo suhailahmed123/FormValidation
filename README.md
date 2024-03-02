@@ -1,6 +1,6 @@
 # Form Validation Web Application
 
-Description:
+## Description:
 
 I developed a dynamic form validation web application using HTML, CSS, and JavaScript to enhance user experience and security. The application ensures that user inputs adhere to specified criteria before submission, providing real-time feedback for errors and guiding users to correct them.
 
@@ -25,3 +25,6 @@ This project improved the user experience by preventing submission of incomplete
 Future Enhancements:
 
 In future iterations, I plan to incorporate server-side validation to reinforce security measures and further enhance the robustness of the application.
+
+
+https://suhailahmed123.github.io/FormValidation/
